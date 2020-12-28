@@ -1,0 +1,17 @@
+id,title,description,image_link,link,product_type,brand,price,availability,item_group_id,checkout_url,additional_image_link,sale_price_effective_date,sale_price,condition,visibility,gender,color,size,pattern,google_product_category,default_product,variant
+wc_post_id_30,"EVERYDAY HOODY BLACK","– 80% cotton, 20% polyester 
+– Velvet on neck taper 
+– Mogul Club side tab 
+– Colour: Black 
+ 
+Size guide 
+ 
+Model height: 5.8 – wearing small.",http://localhost/wordpress/wp-content/uploads/2020/12/Everyday-Hoody-Black-Flat-600x800-1.jpg,http://localhost/wordpress/product/everyday-hoody-black/,"Hoodies","Bp Shopping",40000USD,in stock,wc_post_id_30,,,1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,35000USD,new,published,,,,,,,
+wc_post_id_19,"CLUB COLLAR T-SHIRT BLACK","– 100% Cotton 
+– Colour: Black 
+– Printed Neck Logo 
+– Velvet neck taper 
+– Mogul Club Side Tab 
+ 
+SIZE - Small, Medium, Large, Extra Large",http://localhost/wordpress/wp-content/uploads/2020/12/Club-Collar-Model-Black-600x800-1.jpg,http://localhost/wordpress/product/club-collar-t-shirt-black/,"T-Shirts","Bp Shopping",35000USD,in stock,wc_post_id_19,,,1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,30000USD,new,published,,,,,,,
+wc_post_id_13,"Color Shirts","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",http://localhost/wordpress/wp-content/uploads/2020/12/happy-tshirt-1.jpg,http://localhost/wordpress/product/color-shirts/,"T-Shirts","Bp Shopping",20000USD,in stock,wc_post_id_13,,,1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,15000USD,new,staging,,,,,,,

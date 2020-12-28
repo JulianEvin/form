@@ -1,0 +1,6 @@
+2020-12-23T04:39:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.6-0\apps\wordpress\htdocs\wp-content\plugins\elementor\modules\page-templates\module.php on line 282
+
+2020-12-23T04:40:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.6-0\apps\wordpress\htdocs\wp-includes\wp-db.php on line 2056
+
+2020-12-23T10:25:03+00:00 CRITICAL require_once(): Failed opening required 'C:\Bitnami\wordpress-5.6-0\apps\wordpress\htdocs\wp-content\plugins\stockunlocks\class-suwp-license-manager-client.php' (include_path='.;C:\php\pear') in C:\Bitnami\wordpress-5.6-0\apps\wordpress\htdocs\wp-content\plugins\stockunlocks\admin\class-stockunlocks-admin.php on line 5441
+
